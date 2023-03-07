@@ -1,12 +1,4 @@
-![GeonHeeLeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeonHeeLeee&show_icons=true&theme=dark)   
-![GeonHeeLeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeonHeeLeee&show_icons=true&theme=radical)  
-![GeonHeeLeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeonHeeLeee&show_icons=true&theme=merko)  
-![GeonHeeLeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeonHeeLeee&show_icons=true&theme=gruvbox)  
-![GeonHeeLeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeonHeeLeee&show_icons=true&theme=tokyonight)  
-![GeonHeeLeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeonHeeLeee&show_icons=true&theme=onedark)  
-![GeonHeeLeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeonHeeLeee&show_icons=true&theme=cobalt)  
-![GeonHeeLeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeonHeeLeee&show_icons=true&theme=synthwave)  
+
 ![GeonHeeLeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeonHeeLeee&show_icons=true&theme=highcontrast)  
-![GeonHeeLeee's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeonHeeLeee&show_icons=true&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghlee00125)](https://solved.ac/ghlee00125)
 
