@@ -1,6 +1,6 @@
 ### Hello 👋
 
-<!--
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghlee00125)](https://solved.ac/ghlee00125)
 **GeonHeeLeee/GeonHeeLeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghlee00125)](https://solved.ac/ghlee00125)
+
