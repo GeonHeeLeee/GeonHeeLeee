@@ -36,7 +36,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ghlee00125)](https://solved.ac/ghlee00125)
 
 
-## Career
+## ✨ Career
 
 CJ OliveNetworks - Business System Engineer 2025.07 ~
 
